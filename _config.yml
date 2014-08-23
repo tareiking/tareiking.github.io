@@ -1,0 +1,11 @@
+# Site settings
+title: Tarei King | WP Developer
+email: tareiking@gmail.com
+description: Information and details about various WordPress plugins and projects.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: tareiking
+github_username:  tareiking
+
+# Build settings
+markdown: kramdown
